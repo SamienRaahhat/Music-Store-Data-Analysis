@@ -24,3 +24,5 @@ To address these challenges, a comprehensive data analysis project using SQL was
     - Compiled and presented actionable insights derived from the SQL data analysis, enabling the music store to make informed decisions for business growth.
 
 This project aimed to transform raw data into meaningful insights, empowering the music store to make strategic decisions for improving sales, customer satisfaction, and overall business performance.
+
+![photo-1623018035813-9cfb5b502e04](https://github.com/SamienRaahhat/Music-Store-Data-Analysis/assets/145576062/4ad545f8-9eaf-419b-9f16-957050022169)
